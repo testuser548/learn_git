@@ -1,0 +1,6 @@
+more example text
+
+AverageMono is an average of thirteen different fonts which are all
+derivatives of the public domain "Courier" typeface. 
+Or, rather, a subset of the Western Latin characters in it, minus punctuation, 
+are thus.
